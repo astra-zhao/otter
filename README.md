@@ -68,7 +68,7 @@ otter之前开源的一个子项目，开源链接地址：<a href="http://githu
 
 <h1>
 <a name="%E7%89%88%E6%9C%AC%E7%9B%B8%E5%85%B3-" class="anchor" href="#%E7%89%88%E6%9C%AC%E7%9B%B8%E5%85%B3-"><span class="octicon octicon-link"></span></a>版本相关: </h1>
-<p>1. 建议版本：4.2.12  (otter开源版本从内部演变而来，所以初始版本直接从4.x开始) </p>
+<p>1. 建议版本：4.2.15  (otter开源版本从内部演变而来，所以初始版本直接从4.x开始) </p>
 <p>2. 下载发布包：<a href="https://github.com/alibaba/otter/releases">download </a></p>
 <p>3. maven依赖 ： 暂无 </p>
 
@@ -89,9 +89,3 @@ otter之前开源的一个子项目，开源链接地址：<a href="http://githu
 <p><span>3.  </span><span>新浪微博： agapple0002</span></p>
 <p><span>4.  </span><span>报告issue：</span><a href="https://github.com/alibaba/otter/issues">issues</a></p>
 <p> </p>
-<pre>
-【招聘】阿里巴巴中间件团队招聘JAVA高级工程师
-岗位主要为技术型内容(非业务部门)，阿里中间件整个体系对于未来想在技术上有所沉淀的同学还是非常有帮助的
-工作地点：杭州、北京均可. ps. 阿里待遇向来都是不错的，有意者可以QQ、微博私聊. 
-具体招聘内容：https://job.alibaba.com/zhaopin/position_detail.htm?positionId=32666
-</pre>
